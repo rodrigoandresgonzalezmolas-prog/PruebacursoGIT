@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 HOLA MUNDO
-=======
-asdfasdfafdssasdfasaq
->>>>>>> eb211c62c7fbe7c14aed73167cee2097c299af44
